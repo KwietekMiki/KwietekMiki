@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm @KwiatekMiki's alt. I just redirect my other sites!
+I'm @KwiatekMiki's alt, idk what I'm doing here.
 
 <!--
 **KwietekMiki/KwietekMiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
